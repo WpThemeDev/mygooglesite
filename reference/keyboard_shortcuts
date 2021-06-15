@@ -1,0 +1,318 @@
+<p>When it comes to productivity there is nothing like a keyboard shortcut to get things done quickly. The challenge is committing them to memory as the gains in efficiency are instantly lost if you have to stop and look them up. I find learning keyboard basics are mandatory such as “Backspace” to delete the character to the left and “<span style="font-weight: 400;">Alt + Backspace</span>” to delete the current character.</p>
+<p>&nbsp;</p>
+<p>My observation has been most folks coming to Chrome OS from either Microsoft or Apple immediately notice there are a few keys missing. My assumption is when Google designed the Chromebook they had to balance the number of keys to the available space. The end result is some keys (i.e. PgDn) are missing and the result may have created more keyboard shortcuts but the functionality (<span style="font-weight: 400;">Alt + Down Arrow</span>) survived. The following are the shortcuts I use and are familiar with. I ranked each shortcut on a “probability of use” scale of <span style="font-weight: 400;">rare</span> (R), <span style="font-weight: 400;">seldom</span> (S), <span style="font-weight: 400;">occasionally</span> (O), and <span style="font-weight: 400;">frequently</span> (F). There is no real benefit memorizing something you seldom use so the items I judged as rare are not in the following tables.</p>
+<h3>Shortcuts</h3>
+<table>
+<thead>
+<tr>
+<th style="background: linear-gradient(180deg, rgba(251,140,0,1) 0%, rgba(245,124,0,1) 30%, rgba(239,108,0,1) 70%, rgba(230,81,0,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb8c00',endColorstr='#e65100',GradientType=1); width: 5%;" width="5%"><span style="color: #ffffff;">#</span></th>
+<th style="background: linear-gradient(180deg, rgba(251,140,0,1) 0%, rgba(245,124,0,1) 30%, rgba(239,108,0,1) 70%, rgba(230,81,0,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb8c00',endColorstr='#e65100',GradientType=1); width: 53%;" width="53%"><span style="color: #ffffff;">Task</span></th>
+<th style="background: linear-gradient(180deg, rgba(251,140,0,1) 0%, rgba(245,124,0,1) 30%, rgba(239,108,0,1) 70%, rgba(230,81,0,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb8c00',endColorstr='#e65100',GradientType=1); width: 30%;" width="30%"><span style="color: #ffffff;">Shortcut</span></th>
+<th style="background: linear-gradient(180deg, rgba(251,140,0,1) 0%, rgba(245,124,0,1) 30%, rgba(239,108,0,1) 70%, rgba(230,81,0,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb8c00',endColorstr='#e65100',GradientType=1); width: 12%;" width="12%"><span style="color: #ffffff;">Rank</span></th>
+</tr>
+<tr>
+<td style="background-color: #fafafa; text-align: center;" colspan="4"><span style="font-weight: 400;">Chrome OS</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Close the current tab</td>
+<td>Ctrl + W</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Close the current window</td>
+<td>Ctrl + Shift + W</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Dock a window on the left</td>
+<td>Alt + [</td>
+<td style="text-align: center;"> <i class="fas fa-star" style="color: #fbc02d;"></i> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>Dock a window on the right</td>
+<td>Alt + ]</td>
+<td style="text-align: center;"> <i class="fas fa-star" style="color: #fbc02d;"></i> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jump to the next open tab</td>
+<td>Ctrl + Tab</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Jump to the previous open tab</td>
+<td>Ctrl + Shift + Tab</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Open a file in the browser</td>
+<td>Ctrl + O</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Open a new window</td>
+<td>Ctrl + N</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Open the status area</td>
+<td>Alt + Shift + S</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Reopen the last tab you've closed</td>
+<td>Ctrl + Shift + T</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>11</td>
+<td>See your notifications</td>
+<td>Alt + Shift + N</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<th style="background-color: #fafafa;" colspan="4"><span style="font-weight: 400;">Google Docs &amp; Sheets</span></th>
+</tr>
+<tr>
+<td>12</td>
+<td>Bold text</td>
+<td>Ctrl + B</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Copy the selected item</td>
+<td>Ctrl + C</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Cut the selected item</td>
+<td>Ctrl + X</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Find</td>
+<td>Ctrl + F</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Find &amp; Replace</td>
+<td>Ctrl + H</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Find again</td>
+<td>Ctrl + G</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Hide the menus (compact mode)</td>
+<td>Ctrl + Shift + F</td>
+<td style="text-align: center;"> <i class="fas fa-star" style="color: #fbc02d;"></i> </td>
+</tr>
+<tr>
+<td>19</td>
+<td>Italicize text</td>
+<td>Ctrl + I</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Keyboard help</td>
+<td>Ctrl + /</td>
+<td style="text-align: center;">S</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Page Down</td>
+<td>Alt + Dn Arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Page Up</td>
+<td>Alt + Up Arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Paste the selected item</td>
+<td>Ctrl + V</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Paste without formatting</td>
+<td>Ctrl + Shift + V</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Print</td>
+<td>Ctrl + P</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Select all</td>
+<td>Ctrl + A</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Underline text</td>
+<td>Ctrl + U</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Undo an action</td>
+<td>Ctrl + Z</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<th style="background-color: #fafafa;" colspan="4"><span style="font-weight: 400;">Google Docs</span></th>
+</tr>
+<tr>
+<td>27</td>
+<td>Bulleted list</td>
+<td>Ctrl + Shift + 8</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Decrease paragraph indentation</td>
+<td>Ctrl + [</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Extend selection one line</td>
+<td>Shift + Up/down arrow</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Extend selection one word</td>
+<td>Ctrl + Shift + Left/right arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Extend selection to beginning of the paragraph</td>
+<td>Ctrl + Shift + Up arrow</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Extend selection to the end of the paragraph</td>
+<td>Ctrl + Shift + Down arrow</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Increase paragraph indentation</td>
+<td>Ctrl + ]</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Insert page break</td>
+<td>Ctrl + Enter</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Numbered list</td>
+<td>Ctrl + Shift + 7</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Select character</td>
+<td>Shift + Left/right arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<th style="background-color: #fafafa;" colspan="4"><span style="font-weight: 400;">Google Sheets</span></th>
+</tr>
+<tr>
+<td>40</td>
+<td>Center align</td>
+<td>Ctrl + Shift + E</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Fill down</td>
+<td>Ctrl + D</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Fill range</td>
+<td>Ctrl + Enter</td>
+<td style="text-align: center;"> <i class="fas fa-star" style="color: #fbc02d;"></i> </td>
+</tr>
+<tr>
+<td>43</td>
+<td>Fill right</td>
+<td>Ctrl + R</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Move left to next filled cell or 1st cell</td>
+<td>Ctrl + Left arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Move right to next filled cell or last cell</td>
+<td>Ctrl + right arrow</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Right align</td>
+<td>Ctrl + Shift + R</td>
+<td style="text-align: center;">F</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Select column</td>
+<td>Ctrl + Space</td>
+<td style="text-align: center;">O</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Select row</td>
+<td>Shift + Space</td>
+<td style="text-align: center;">F</td>
+</tr>
+</tbody>
+</table>
+<p><!-- annotate information --></p>
+<p>&nbsp;</p>
+<div style="background-color: var(--bg-bas-100); border-left: solid 4px var(--bg-bas-400); padding: 10px; width: 100%;">
+<div style="float: left; padding-right: 8px;"><i class="far fa-comment-alt" style="color: var(--fg-pri-500); font-size: 1.2rem;">​</i></div>
+<div style="display: inline; font-size: 0.85rem;"><i class="fas fa-star" style="color: #fbc02d;"></i> Personal favorites</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
